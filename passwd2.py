@@ -18,17 +18,14 @@ def filecheck(passwrd_file):
         exit()
 
 
-
-
-
 #### List users in passwd file 
 def get_users(passwd_file):
     filecheck(passwd_file)
     with open(passwd_file) as file:                         # opens the file
         for line in file:                                   # loop through the lines
                 if line.__contains__(':'):
-                    words = line.split(':')                     # each line converted into a a set of items seperated by :
-                    if int(words[2]) >= 100:                   # if third item (userid) > 1000
+                    words = line.split(':')                 # each line converted into a a set of items seperated by :
+                    if int(words[2]) >= 100:                # if third item (userid) > 1000
                         global username
                         global userid
                         global user
@@ -36,15 +33,12 @@ def get_users(passwd_file):
                         userid = words[3]
                         user=[username,userid]
                         passwd_printer(user)
-                        #print ("Username:", username, "\n", "   User ID:",userid, "\n")         # print both username (first item) & userid (third item)
-
-
-
 
 
 #### Printing results
 def passwd_printer(user):
-    print ("Username:", username, "\n", "   User ID:", userid, "\n")
+    print ("Username:", username, "\n", "   User ID:", userid, "\n")        # print both username (first item) & userid (third item)
     #pprint(user, depth =1)   
 
-get_users(passwd_file)                                      # calling the actual function, passing the file path
+
+get_users(passwd_file)                                      # calling the actual function
