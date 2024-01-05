@@ -1,0 +1,230 @@
+Username: _softwareupdate 
+    User ID: 200 
+
+Username: _coreaudiod 
+    User ID: 202 
+
+Username: _screensaver 
+    User ID: 203 
+
+Username: _locationd 
+    User ID: 205 
+
+Username: _trustevaluationagent 
+    User ID: 208 
+
+Username: _timezone 
+    User ID: 210 
+
+Username: _lda 
+    User ID: 211 
+
+Username: _cvmsroot 
+    User ID: 212 
+
+Username: _usbmuxd 
+    User ID: 213 
+
+Username: _dovecot 
+    User ID: 6 
+
+Username: _dpaudio 
+    User ID: 215 
+
+Username: _postgres 
+    User ID: 216 
+
+Username: _krbtgt 
+    User ID: -2 
+
+Username: _kadmin_admin 
+    User ID: -2 
+
+Username: _kadmin_changepw 
+    User ID: -2 
+
+Username: _devicemgr 
+    User ID: 220 
+
+Username: _webauthserver 
+    User ID: 221 
+
+Username: _netbios 
+    User ID: 222 
+
+Username: _warmd 
+    User ID: 224 
+
+Username: _dovenull 
+    User ID: 227 
+
+Username: _netstatistics 
+    User ID: 228 
+
+Username: _avbdeviced 
+    User ID: -2 
+
+Username: _krb_krbtgt 
+    User ID: -2 
+
+Username: _krb_kadmin 
+    User ID: -2 
+
+Username: _krb_changepw 
+    User ID: -2 
+
+Username: _krb_kerberos 
+    User ID: -2 
+
+Username: _krb_anonymous 
+    User ID: -2 
+
+Username: _assetcache 
+    User ID: 235 
+
+Username: _coremediaiod 
+    User ID: 236 
+
+Username: _launchservicesd 
+    User ID: 239 
+
+Username: _iconservices 
+    User ID: 240 
+
+Username: _distnote 
+    User ID: 241 
+
+Username: _nsurlsessiond 
+    User ID: 242 
+
+Username: _displaypolicyd 
+    User ID: 244 
+
+Username: _astris 
+    User ID: 245 
+
+Username: _krbfast 
+    User ID: -2 
+
+Username: _gamecontrollerd 
+    User ID: 247 
+
+Username: _mbsetupuser 
+    User ID: 248 
+
+Username: _ondemand 
+    User ID: 249 
+
+Username: _xserverdocs 
+    User ID: 251 
+
+Username: _wwwproxy 
+    User ID: 252 
+
+Username: _mobileasset 
+    User ID: 253 
+
+Username: _findmydevice 
+    User ID: 254 
+
+Username: _datadetectors 
+    User ID: 257 
+
+Username: _captiveagent 
+    User ID: 258 
+
+Username: _ctkd 
+    User ID: 259 
+
+Username: _applepay 
+    User ID: 260 
+
+Username: _hidd 
+    User ID: 261 
+
+Username: _cmiodalassistants 
+    User ID: 262 
+
+Username: _analyticsd 
+    User ID: 263 
+
+Username: _fpsd 
+    User ID: 265 
+
+Username: _timed 
+    User ID: 266 
+
+Username: _nearbyd 
+    User ID: 268 
+
+Username: _reportmemoryexception 
+    User ID: 269 
+
+Username: _driverkit 
+    User ID: 270 
+
+Username: _diskimagesiod 
+    User ID: 271 
+
+Username: _logd 
+    User ID: 272 
+
+Username: _appinstalld 
+    User ID: 273 
+
+Username: _installcoordinationd 
+    User ID: 274 
+
+Username: _demod 
+    User ID: 275 
+
+Username: _rmd 
+    User ID: 277 
+
+Username: _accessoryupdater 
+    User ID: 278 
+
+Username: _knowledgegraphd 
+    User ID: 279 
+
+Username: _coreml 
+    User ID: 280 
+
+Username: _sntpd 
+    User ID: 281 
+
+Username: _trustd 
+    User ID: 282 
+
+Username: _mmaintenanced 
+    User ID: 283 
+
+Username: _darwindaemon 
+    User ID: 284 
+
+Username: _notification_proxy 
+    User ID: 285 
+
+Username: _avphidbridge 
+    User ID: 288 
+
+Username: _biome 
+    User ID: 289 
+
+Username: _backgroundassets 
+    User ID: 291 
+
+Username: _mobilegestalthelper 
+    User ID: 293 
+
+Username: _audiomxd 
+    User ID: 294 
+
+Username: _terminusd 
+    User ID: 295 
+
+Username: _neuralengine 
+    User ID: 296 
+
+Username: _oahd 
+    User ID: 441 
